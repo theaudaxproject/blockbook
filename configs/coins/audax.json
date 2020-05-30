@@ -22,10 +22,10 @@
     "package_name": "backend-audax",
     "package_revision": "satoshilabs-1",
     "system_user": "audax",
-    "version": "1.0.0",
-    "binary_url": "https://github.com/theaudaxproject/audax/releases/download/v1.0.0/audax-1.0.0-x86_64-linux-gnu.tar.gz",
+    "version": "1.0.1",
+    "binary_url": "https://github.com/theaudaxproject/audax/releases/download/v1.0.1/audax-1.0.1-x86_64-linux-gnu.tar.gz",
     "verification_type": "sha256",
-    "verification_source": "0ed807c32e19681597d7f6185f236d86cd94dcde36bbedd60210b363d1d48d4b",
+    "verification_source": "c1c7d8920ef8bc80f4b65d4e4ff683a67596dd4f30824de6b7a3485b511576a5",
     "extract_command": "tar -C backend --strip 1 -xf",
     "exclude_files": [
       "bin/audax-qt"
